@@ -1,5 +1,6 @@
-# Hello World!
 
-:trollface::trollface::trollface:
+安安你好喔~! 
+
+這是卡比獸的 GitHub。
 
 這頁是先開來玩看看，之後再做履歷吧。
